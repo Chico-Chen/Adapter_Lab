@@ -1,6 +1,6 @@
-package Client;
+package Legacy;
 
-public interface MovableAdapter {
+public interface LegacyAPI {
 	public double getSpeed();
 	public double getPrice();
 }

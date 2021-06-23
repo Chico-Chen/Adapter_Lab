@@ -1,5 +1,6 @@
 package Client;
 
-public class Client {
-
+public interface Client {
+	public double getSpeedKMPH();
+	public double getPricePound();
 }
