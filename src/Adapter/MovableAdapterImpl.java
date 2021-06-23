@@ -43,9 +43,9 @@ public class MovableAdapterImpl implements MovableAdapter {
         System.out.println("============================================\n");
 
 
-        System.out.println("------- Corolla Speed In KMPH ------\n");
+        System.out.println("------- Audi Speed In KMPH ------\n");
 		System.out.println(client.getSpeedKMPH() + " KMPH \n");
-		System.out.println("------- Corolla Price In Pounds ------ \n");
+		System.out.println("------- Audi Price In Pounds ------ \n");
 		System.out.println("₤" + client.getPricePound() + "\n");
 	}
 }
